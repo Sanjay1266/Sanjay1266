@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm **Sanjay S**, a Computer Science graduate passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Research interested **. I enjoy building innovative software, exploring emerging technologies, and solving real-world problems through code.<br><br>I'm always eager to learn, collaborate, and contribute to impactful projects while continuously improving my technical and problem-solving skills.<br>
+## 👋 About Me<br><br>I'm **Sanjay S**, a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Research interested . I enjoy building innovative software, exploring emerging technologies, and solving real-world problems through code.<br><br>I'm always eager to learn, collaborate, and contribute to impactful projects while continuously improving my technical and problem-solving skills.<br>
 
 
 ## 🌐 Socials:
