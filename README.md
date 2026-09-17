@@ -1,27 +1,175 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Sanjay S**, a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Research interested . I enjoy building innovative software, exploring emerging technologies, and solving real-world problems through code.<br><br>I'm always eager to learn, collaborate, and contribute to impactful projects while continuously improving my technical and problem-solving skills.<br>
+<div align="center">
 
+  # ⚡ Sanjay S
+  ### **AI/ML Researcher & Full-Stack Systems Architect**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sanjay_sundaram_/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaysundaram50@gmail.com) 
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Architecting+Scalable+AI+%26+Deep+Learning+Systems;Translating+Research+Into+Production-Grade+Code;Full-Stack+Distributed+Systems+Engineer;Crafting+High-Performance+Intelligent+Applications" alt="Typing SVG" />
+    </a>
+  </p>
 
-# 💻 Tech Stack:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sanjay1266&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sanjay1266&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanjay1266&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <p align="center">
+    <a href="https://github.com/Sanjay1266"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:sanjaysundaram50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.instagram.com/_sanjay_sundaram_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/Sanjay1266?tab=repositories"><img src="https://img.shields.io/badge/Projects-00599C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Projects"/></a>
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanjay1266&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sanjay1266&label=PROFILE%20VISITORS&color=38bdf8&style=flat-square" alt="Visitors Count"/>
+    <img src="https://img.shields.io/badge/Status-Innovating%20%26%20Building-00f0ff?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20Distributed%20Systems-purple?style=flat-square" alt="Focus"/>
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sanjay1266&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sanjay1266&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 **About Me & Engineering Philosophy**
+
+I am a **Computer Science Graduate and AI/ML Specialist** operating at the nexus of algorithmic research, neural architectures, and robust production engineering. My mission is to bridge theoretical machine learning and enterprise-grade software—turning complex datasets and cutting-edge papers into resilient, low-latency microservices and intuitive digital experiences.
+
+```yaml
+engineer:
+  name: Sanjay S
+  identity: AI/ML Researcher & Systems Architect
+  interests: [Deep Learning, Computer Vision, Generative AI, Distributed Web Systems]
+  methodology: [Test-Driven Architecture, Deterministic Pipelines, Sub-Second Latency]
+  status: "Exploring frontier neural architectures & open-source ecosystems"
+```
+
+- 🧠 **Research & Exploration**: Deep learning pipelines, neural net optimization, computer vision, and NLP architectures.
+- 🏗️ **Distributed Systems**: Engineering scalable backend APIs, reactive web architectures, and fault-tolerant data stores.
+- ⚡ **Engineering Standard**: Clean code, SOLID principles, high concurrency, and deterministic continuous delivery.
+- 🤝 **Collaboration**: Keen to collaborate on disruptive open-source tools, machine learning initiatives, and research papers.
+
+---
+
+### 🛠️ **Technical Arsenal & Ecosystem**
+
+<table align="center" width="100%">
+  <tr>
+    <th width="50%" align="left">🔬 AI, Deep Learning & Scientific Computing</th>
+    <th width="50%" align="left">🌐 Full-Stack & Engineering Frameworks</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras"/>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda"/>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Angular.js-E23237?style=flat-square&logo=angularjs&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">💻 Core Languages & Runtimes</th>
+    <th align="left">🗄️ Database Systems & Data Persistence</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black" alt="ArangoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">☁️ Cloud Infrastructure & CI/CD</th>
+    <th align="left">🎨 Design Systems & Prototyping</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+      <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 **Developer Telemetry & Analytics**
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Sanjay1266">
+          <img src="https://github-readme-stats.shion.dev/api?username=Sanjay1266&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Sanjay1266">
+          <img src="https://streak-stats.demolab.com/?user=Sanjay1266&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <a href="https://github.com/Sanjay1266">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sanjay1266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 **GitHub Trophies**
+
+<a href="https://github.com/Sanjay1266">
+  <img src="https://profile-trophy.vercel.app/?username=Sanjay1266&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+### 💡 **Daily Engineering Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Designed & Engineered with precision by <b><a href="https://github.com/Sanjay1266">Sanjay S</a></b> • TokyoNight Theme Matrix</sub>
+</div>
